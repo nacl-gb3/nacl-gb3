@@ -10,5 +10,5 @@ I'm a freshman at the University of Texas at Austin (UT '27) pursuing a B.S. in 
 - **Other:** Node.js
 
 ## 🖥 Projects 
-- Recipe Maker Electron — built a CRUD app particularly centered on managing cooking recipes; uses Electron framework and coded with TypeScript
+- Recipe Maker Electron — built an app centered on managing cooking recipes; uses Electron framework and coded with TypeScript
   - RecipeMaker.java — original version of Recipe Maker concept coded in Java with a command line interface
