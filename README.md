@@ -12,3 +12,6 @@ I'm a freshman at the University of Texas at Austin (UT '27) pursuing a B.S. in 
 ## 🖥 Projects 
 - Recipe Maker Electron — built an app centered on managing cooking recipes; uses Electron framework and coded with TypeScript
   - RecipeMaker.java — original version of Recipe Maker concept coded in Java with a command line interface
+- StudyBinder - Flutter quiz app designed for on-the-fly exam preparation
+  - ExamPort -  Companion Python program that acts as a server (Flask) and a database management tool (SQLite3) for StudyBinder
+ 
