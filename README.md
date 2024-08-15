@@ -4,7 +4,7 @@ I'm a sophmore at the University of Texas at Austin (UT '27) pursuing a B.S. in 
 - 📫 How to reach me: glb2354@utexas.edu 
 
 ## ⌨️ Technical Skills 
-- **Languages:** Java, JavaScript/TypeScript, Python, C, C++, HTML, CSS
+- **Languages:** Java, JavaScript/TypeScript, Python, C, HTML, CSS
 - **Frameworks:** Electron
 - **Software:** Neovim, Visual Studio Code
 - **Other:** Node.js
