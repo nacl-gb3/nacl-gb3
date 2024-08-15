@@ -6,7 +6,7 @@ I'm a sophmore at the University of Texas at Austin (UT '27) pursuing a B.S. in 
 ## ⌨️ Technical Skills 
 - **Languages:** Java, JavaScript/TypeScript, Python, C, C++, HTML, CSS
 - **Frameworks:** Electron
-- **Software:** Neovim, Visual Studio Code / VSCodium, Eclipse
+- **Software:** Neovim, Visual Studio Code
 - **Other:** Node.js
 
 ## 🖥 Projects 
