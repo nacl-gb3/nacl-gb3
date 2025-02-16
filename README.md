@@ -5,7 +5,7 @@ I'm a sophomore at the University of Texas at Austin (UT '27) pursuing a B.S. in
 
 ## ⌨️ Technical Skills 
 - **Languages (in order of familiarity):** Java, C, JavaScript/TypeScript, Python, Nix, HTML, CSS
-- **Frameworks:** Electron
+- **Frameworks:** Electron, Next.js
 - **Software:** Neovim, Visual Studio Code
 - **Other:** Node.js
 
