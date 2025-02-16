@@ -15,4 +15,4 @@ I'm a sophomore at the University of Texas at Austin (UT '27) pursuing a B.S. in
 - StudyBinder - Flutter quiz app designed for on-the-fly exam preparation
   - ExamPort -  Companion Python program that acts as a server (Flask) and a database management tool (SQLite3) for StudyBinder
  
-Special Thanks to @cloudydaiyz[https://github.com/cloudydaiyz] for the basis for this README.
+Special Thanks to [cloudydaiyz](https://github.com/cloudydaiyz) for the basis for this README.
