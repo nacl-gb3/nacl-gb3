@@ -4,7 +4,7 @@ I'm a sophomore at the University of Texas at Austin (UT '27) pursuing a B.S. in
 - 📫 How to reach me: glb2354@utexas.edu 
 
 ## ⌨️ Technical Skills 
-- **Languages (in order of familiarity):** Java, C, JavaScript/TypeScript, Python, Nix, HTML, CSS
+- **Languages (in order of familiarity):** C, Java, JavaScript/TypeScript, Python, Nix, HTML, CSS
 - **Frameworks:** Electron, Next.js
 - **Software:** Neovim, Visual Studio Code
 - **Other:** Node.js
