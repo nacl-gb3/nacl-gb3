@@ -12,6 +12,6 @@ I'm a junior at the University of Texas at Austin (UT '27) pursuing a B.S. in Co
   - RecipeMaker.java — original version of Recipe Maker concept coded in Java with a command line interface
 - StudyBinder - Flutter quiz app designed for on-the-fly exam preparation
   - ExamPort -  Companion Python program that acts as a server (Flask) and a database management tool (SQLite3) for StudyBinder
-- sticksc - Pseudo-P2P implementation of elementary school game, sticks; programmed in C for Linux
+- sticksc - Network implementation of elementary school game, sticks; programmed in C for Linux
  
 Special thanks to [cloudydaiyz](https://github.com/cloudydaiyz) for the basis for this README.
