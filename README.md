@@ -1,6 +1,6 @@
 ## 👋 Hello! 
 
-I'm a junior at the University of Texas at Austin (UT '27) pursuing a B.S. in Computer Science. My career interests are computer systems, cybersecurity, and FOSS.
+I'm a senior at the University of Texas at Austin (UT '27) pursuing a B.S. in Computer Science. My career interests are computer systems, cybersecurity, and FOSS.
 - 📫 How to reach me: glb2354@utexas.edu 
 
 ## ⌨️ Technical Skills 
