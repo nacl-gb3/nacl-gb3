@@ -1,10 +1,10 @@
 ## 👋 Hello! 
 
-I'm a 3rd year at the University of Texas at Austin (UT '27) pursuing a B.S. in Computer Science. My career interests are computer systems, cybersecurity, and FOSS.
-- 📫 How to reach me: glb2354@utexas.edu 
-
+I'm a rising 4th year at the University of Texas at Austin (UT '27) pursuing a B.S. in Computer Science. My career interests are computer systems, cybersecurity, and FOSS.
+- 📫 How to reach me: glb2354@eid.utexas.edu
+  
 ## ⌨️ Technical Skills 
-- **Languages (in order of familiarity):** C, Java, JavaScript/TypeScript, Python, Lua, Nix, HTML, CSS
+- **Languages (in order of familiarity):** C, C++, Java, JavaScript/TypeScript, Python, Lua, Nix, HTML, CSS
 - **Frameworks:** Electron, Flutter, Next.js
 
 ## 🖥 Projects 
