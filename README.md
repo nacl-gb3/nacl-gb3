@@ -1,6 +1,6 @@
 ## 👋 Hello! 
 
-I'm a rising 4th year at the University of Texas at Austin (UT '27) pursuing a B.S. in Computer Science. My interests are computer systems, cybersecurity, and FOSS.
+I'm a 4th year at the University of Texas at Austin (UT '27) pursuing a B.S. in Computer Science. My interests are computer systems, cybersecurity, and FOSS.
 - 📫 How to reach me: glb2354@eid.utexas.edu
   
 ## ⌨️ Technical Skills 
