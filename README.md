@@ -14,4 +14,4 @@ I'm a 4th year at the University of Texas at Austin (UT '27) pursuing a B.S. in 
   - ExamPort -  Companion Python program that acts as a server (Flask) and a database management tool (SQLite3) for StudyBinder
 - sticksc - Network implementation of elementary school game, sticks; programmed in C for Linux
  
-Special thanks to [cloudydaiyz](https://github.com/cloudydaiyz) for the basis for this README.
+Special thanks to [cloudydaiyz](https://github.com/cloudydaiyz) for the basis for this README and [ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) for the program used to get the effects on my profile picture.
